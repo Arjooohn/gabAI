@@ -1,0 +1,22 @@
+opencv-python
+pytesseract
+pyttsx3
+vosk
+googletrans==4.0.0-rc1
+pyaudio
+numpy
+
+# pip install -r requirements.txt
+
+# To install Tesseract in Raspberry Pi OS:
+# sudo apt install tesseract-ocr tesseract-ocr-tgl
+
+# To run the application, use the command:
+# python3 main.py
+
+
+# Dependencies
+# sudo apt install python3-pip -y
+# sudo apt install tesseract-ocr tesseract-ocr-tgl -y
+# sudo apt install portaudio19-dev python3-pyaudio -y
+# sudo apt install libatlas-base-dev -y
